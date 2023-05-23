@@ -29,6 +29,7 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Views\Home\" />
     <Folder Include="Areas\Admin\Views\Shared\" />
+    <Folder Include="ViewModels\" />
     <Folder Include="wwwroot\admin\" />
     <Folder Include="Areas\Admin\Views\Dashboard\" />
     <Folder Include="Areas\Admin\Views\Category\" />
